@@ -1,0 +1,5 @@
+matplotlib
+gradio
+sklearn
+numpy
+pandas
